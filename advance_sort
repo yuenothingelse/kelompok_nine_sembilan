@@ -100,3 +100,41 @@ int partition(char arr[][100], int low, int high) {
 
     return i + 1;
 }
+void quickSort(char arr[][100], int low, int high) {
+
+    if(low < high) {
+
+        int pi = partition(arr, low, high);
+
+        quickSort(arr, low, pi - 1);
+        quickSort(arr, pi + 1, high);
+    }
+}
+
+
+
+
+
+void shellSort(char arr[][100], int n) {
+
+    for(int gap = n / 2; gap > 0; gap /= 2) {
+
+        for(int i = gap; i < n; i++) {
+
+            char temp[100];
+            strcpy(temp, arr[i]);
+
+            int j;
+
+            for(j = i;
+                j >= gap &&
+                strcmp(arr[j - gap], temp) > 0;
+                j -= gap) {
+
+                strcpy(arr[j], arr[j - gap]);
+            }
+
+            strcpy(arr[j], temp);
+        }
+    }
+}
