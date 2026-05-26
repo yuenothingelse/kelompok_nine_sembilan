@@ -1,3 +1,4 @@
+```text
 ██╗  ██╗███████╗██╗      ██████╗ ███╗   ███╗██████╗  ██████╗ ██╗  ██╗
 ██║ ██╔╝██╔════╝██║     ██╔═══██╗████╗ ████║██╔══██╗██╔═══██╗██║ ██╔╝
 █████╔╝ █████╗  ██║     ██║   ██║██╔████╔██║██████╔╝██║   ██║█████╔╝
@@ -6,7 +7,9 @@
 ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝      ╚═════╝ ╚═╝  ╚═╝
 
                     N I N E
+```
 
+# 🚀 Sorting Algorithm Analyzer in C
 # 🚀 Sorting Algorithm Analyzer in C
 
 Program CLI (Command Line Interface) berbasis bahasa C untuk memvisualisasikan dan menganalisis performa berbagai algoritma sorting. Dibuat untuk memenuhi Tugas Praktikum Struktur Data dan Algoritma.
@@ -14,7 +17,7 @@ Program CLI (Command Line Interface) berbasis bahasa C untuk memvisualisasikan d
 ## 👥 Anggota Kelompok 9
 1. **abrarmuda59-droid** as ABRAR MUDA - [250810701100080] - [Fokus Pengerjaan, misal: Infrastruktur & Advance Sort]
 2. **yuenothingelse** as MIRZA NUR AKHYAR - [250810701100087] - [Fokus Pengerjaan, misal: Fungsi Utils & Logika File]
-3. **Hafidhfrr** as M. HAFIDH FARRAS - [250810701100098] - [Fokus Pengerjaan]
+3. **Hafidhfrr** as M. HAFIDH FARRAS - [250810701100098] - [Fungsi Utils, Fitur Shuffle & File Handling]
 
 ## ✨ Fitur Utama
 Program ini menguji dua kategori algoritma dengan tipe data dan kompleksitas yang berbeda:
