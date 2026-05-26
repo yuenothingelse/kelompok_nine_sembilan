@@ -1,5 +1,4 @@
-# kelompok_nine
-
+```text
 ██╗  ██╗███████╗██╗      ██████╗ ███╗   ███╗██████╗  ██████╗ ██╗  ██╗
 ██║ ██╔╝██╔════╝██║     ██╔═══██╗████╗ ████║██╔══██╗██╔═══██╗██║ ██╔╝
 █████╔╝ █████╗  ██║     ██║   ██║██╔████╔██║██████╔╝██║   ██║█████╔╝
@@ -8,4 +7,16 @@
 ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝      ╚═════╝ ╚═╝  ╚═╝
 
                     N I N E
-CLI-based sorting algorithm implementation and performance analysis in C language using integer and string datasets
+```
+
+# 🚀 Sorting Algorithm Analyzer in C
+
+CLI-based sorting visualization and performance analysis program using C language.
+
+## ✨ Features
+- Bubble Sort
+- Insertion Sort
+- Selection Sort
+- Merge Sort
+- Quick Sort
+- Shell Sort
