@@ -10,14 +10,13 @@
 ```
 
 # 🚀 Sorting Algorithm Analyzer in C
-# 🚀 Sorting Algorithm Analyzer in C
 
 Program CLI (Command Line Interface) berbasis bahasa C untuk memvisualisasikan dan menganalisis performa berbagai algoritma sorting. Dibuat untuk memenuhi Tugas Praktikum Struktur Data dan Algoritma.
 
 ## 👥 Anggota Kelompok 9
-1. **abrarmuda59-droid** as ABRAR MUDA - [250810701100080] - [Fokus Pengerjaan, misal: Infrastruktur & Advance Sort]
-2. **yuenothingelse** as MIRZA NUR AKHYAR - [250810701100087] - [Fokus Pengerjaan, misal: Fungsi Utils & Logika File]
-3. **Hafidhfrr** as M. HAFIDH FARRAS - [250810701100098] - [Fungsi Utils, Fitur Shuffle & File Handling]
+1. **abrarmuda59-droid** as ABRAR MUDA - [250810701100080] - [Implementasi Merge Sort, Quick Sort, dan Shell Sort, debugging program, serta penyusunan BAB III dan BAB IV]
+2. **yuenothingelse** as MIRZA NUR AKHYAR - [250810701100087] - [Implementasi algoritma Bubble Sort, Insertion Sort, dan Selection Sort serta penyusunan BAB II Landasan Teori]
+3. **Hafidhfrr** as M. HAFIDH FARRAS - [250810701100098] - [Penyusunan laporan, pengujian program, dokumentasi screenshot, analisis hasil, dan penyusunan BAB V]
 
 ## ✨ Fitur Utama
 Program ini menguji dua kategori algoritma dengan tipe data dan kompleksitas yang berbeda:
